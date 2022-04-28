@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-mvc-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-rest-basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-rest-bookapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-rest-cameraapp-exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-rest-camerajpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-rest-furnapp-exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-rest-movieapp-exception/src/main/java" charset="UTF-8" />
+  </component>
+</project>

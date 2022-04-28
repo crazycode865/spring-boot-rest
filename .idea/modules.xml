@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-rest.iml" filepath="$PROJECT_DIR$/spring-boot-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-rest/spring-mvc-rest.iml" filepath="$PROJECT_DIR$/spring-mvc-rest/spring-mvc-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-bookapp/spring-rest-bookapp.iml" filepath="$PROJECT_DIR$/spring-rest-bookapp/spring-rest-bookapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-cameraapp-exception/spring-rest-cameraapp-exception.iml" filepath="$PROJECT_DIR$/spring-rest-cameraapp-exception/spring-rest-cameraapp-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-camerajpa/spring-rest-camerajpa.iml" filepath="$PROJECT_DIR$/spring-rest-camerajpa/spring-rest-camerajpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-furnapp-exception/spring-rest-furnapp-exception.iml" filepath="$PROJECT_DIR$/spring-rest-furnapp-exception/spring-rest-furnapp-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-movieapp-exception/spring-rest-movieapp-exception.iml" filepath="$PROJECT_DIR$/spring-rest-movieapp-exception/spring-rest-movieapp-exception.iml" />
+    </modules>
+  </component>
+</project>
